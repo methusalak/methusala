@@ -1,4 +1,4 @@
-# methusalak
+# methusala-jeeva
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Methusala%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20Future%20AI%20Engineer&descAlignY=62&descSize=16"/>
 
 <div align="center">
